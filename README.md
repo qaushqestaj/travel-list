@@ -1,4 +1,4 @@
-This application is created using React fundamentals.
+This application is built using React fundamentals.
 
 Make a travel list everywhere you go!
 
